@@ -1,1 +1,1 @@
-public static Praktikum {}
+public static main {}
