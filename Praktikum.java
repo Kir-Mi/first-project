@@ -1,1 +1,2 @@
-public static main {}
+public static main {
+}
